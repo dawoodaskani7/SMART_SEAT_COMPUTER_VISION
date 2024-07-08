@@ -1,1 +1,32 @@
-HI
+                                                                         YOLOV8 POSE ESTIMATION & YOLOV8 Object detection (TRAINING AND TESTING)
+
+Dependencies
+                  Python:
+                  Python 3.8 or later is recommended.
+
+                  PyTorch:
+                  pip install torch torchvision torchaudio
+
+                  Ultralytics YOLOv8:
+                  pip install ultralytics
+
+                  OpenCV:
+                  pip install opencv-python-headless
+
+                  NumPy,Pillow,Matplotlib,PyYAML
+
+                                                                                   FasterRCNN Object Detection Training and Testing
+
+        
+
+Dependencies
+                If you have already installed the above libraries. Install the one below
+
+                Install Detectron2 with the following commands:                  
+                python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+
+
+The Dataset was not able to upload in github because of its huge size. We used COCO Dataset, for pose estimation, and chairs detection.
+The model files of FasterRCNN Is also not uploaded. I will provide the link of the drive where i upload it.
+
+
