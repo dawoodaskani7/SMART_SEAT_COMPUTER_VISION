@@ -1,0 +1,6 @@
+path: D:/ARTIFICIAL INTELLIGENCE/SEMESTER 1/Computer Vision and Deep Learning/CV_PROJECT_LAZY_TRAIN/human-pose-estimation-opencv/Chair_occupancy/Training_chair_detection_Yolov8/output
+train: D:/ARTIFICIAL INTELLIGENCE/SEMESTER 1/Computer Vision and Deep Learning/CV_PROJECT_LAZY_TRAIN/human-pose-estimation-opencv/Chair_occupancy/Training_chair_detection_Yolov8/output/train/images
+val: D:/ARTIFICIAL INTELLIGENCE/SEMESTER 1/Computer Vision and Deep Learning/CV_PROJECT_LAZY_TRAIN/human-pose-estimation-opencv/Chair_occupancy/Training_chair_detection_Yolov8/output/val/images
+
+names:
+  0: chair
